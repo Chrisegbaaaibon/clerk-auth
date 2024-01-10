@@ -1,6 +1,6 @@
 export default function NavBar() {
   return (
-    <nav className="bg-gradient-to-tr to-blue-700 from-indigo-900 text-white p-4">
+    <nav className="bg-transparent text-white p-4">
       <div className="container mx-auto">
         <div className="flex justify-between items-center">
           <div className="text-lg font-bold"> My page</div>
